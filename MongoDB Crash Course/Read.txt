@@ -1,0 +1,3 @@
+Used MongoDB Atlas to create the database and load sample database with collections
+MongoDBCompass was used to look at the database as well as connecting to it using 
+VSCode
